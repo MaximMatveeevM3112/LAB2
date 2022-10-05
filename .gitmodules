@@ -1,3 +1,6 @@
 [submodule "Asuma"]
 	path = Asuma
 	url = https://github.com/MaximMatveeevM3112/Asuma.git
+[submodule "sdt_lab_2"]
+	path = sdt_lab_2
+	url = https://github.com/MaximMatveeevM3112/sdt_lab_2.git
