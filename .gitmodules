@@ -4,3 +4,6 @@
 [submodule "sdt_lab_2"]
 	path = sdt_lab_2
 	url = https://github.com/MaximMatveeevM3112/sdt_lab_2.git
+[submodule "dopp"]
+	path = dopp
+	url = https://github.com/MaximMatveeevM3112/dopp.git
