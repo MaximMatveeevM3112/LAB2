@@ -1,0 +1,17 @@
+name: Lab6
+
+on: 
+  commit_comment:
+    branches:
+      -master
+      
+jobs:
+  bild:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Git clone my repo
+      uses: actions/checkout@v1
+      - name: List
+      run: ls - la
+      
